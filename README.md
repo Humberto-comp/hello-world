@@ -1,2 +1,2 @@
 # hello-world
-Repositório criados paras fins de teste e aprendizado 
+Repositório criado paras fins de teste e aprendizado 
